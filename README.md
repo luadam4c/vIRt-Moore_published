@@ -6,11 +6,6 @@ Last modified 2026-02-01
 
 ***
 
-#### Instructions for sample simulations
-
-- For the first simulation, run **virt_moore.m** to use default parameters
-- For subsequent simulations, you can call the graphical user interface with **virt_moore_gui** and import parameter files that were generated
-
 
 #### Instructions for reproducing each figure in Lu et al, 2026 Neuron ("Theory of amplitude control by frequency detuning in the rodent whisking oscillator circuit")
 
